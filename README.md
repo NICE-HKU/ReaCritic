@@ -9,7 +9,7 @@
 
   [![arXiv](https://img.shields.io/badge/arXiv-Paper-<COLOR>.svg)](https://arxiv.org/abs/2403.09079)
 
-  <img src="./images/F1.png" width="1050px">
+  <img src="./images/F0.png" width="1050px">
 </div>
 
 ---
@@ -75,7 +75,7 @@ The framework supports the following configuration options:
 
 HetNets env with high-dimensional state-action pairs, ReaCritic-based SAC algorithms:
 
-<img src="./images/F1" width="600px">
+<img src="./images/F1.png" width="600px">
 
 Different ReaCritic-based DRL algorithms:
 
@@ -83,7 +83,7 @@ Different ReaCritic-based DRL algorithms:
 
 ReaCritic-SAC, different envs:
 
-<img src="./images/performance.png" width="600px">
+<img src="./images/F3.png" width="600px">
 
 ## 📚 Cite Our Work
 

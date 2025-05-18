@@ -9,7 +9,7 @@
 
   [![arXiv](https://img.shields.io/badge/arXiv-Paper-<COLOR>.svg)](https://arxiv.org/abs/2403.09079)
 
-  <img src="./resources/main_teaser_detail.jpg" width="1050px">
+  <img src="./images/F1.png" width="1050px">
 </div>
 
 ---

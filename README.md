@@ -47,6 +47,7 @@ pip install stable_baselines3==2.1.0
 pip install matplotlib==3.8.0
 pip install wandb
 pip install ray
+pip install gymnasium_robotics
 ```
 
 For wandb, log in and paste your API key when prompted.

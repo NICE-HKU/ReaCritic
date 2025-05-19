@@ -48,6 +48,7 @@ pip install matplotlib==3.8.0
 pip install wandb
 pip install ray
 pip install gymnasium_robotics
+pip install transformations 
 ```
 
 For wandb, log in and paste your API key when prompted.

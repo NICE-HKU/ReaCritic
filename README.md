@@ -7,7 +7,7 @@
   <em>"Learning without thought is labor lost. 学而不思则罔。"</em>
   </p>
 
-  [![arXiv](https://img.shields.io/badge/arXiv-Paper-<COLOR>.svg)](https://arxiv.org/abs/2403.09079)
+  [![arXiv](https://img.shields.io/badge/arXiv-Paper-<COLOR>.svg)](https://arxiv.org/abs/2505.10992)
 
   <img src="./images/F0.png" width="800px">
 </div>
@@ -93,7 +93,7 @@ Should our code assist in your research, please acknowledge our work by citing:
 @article{you2025reacritic,
  title={ReaCritic: Large Reasoning Transformer-based DRL Critic-model Scaling For Heterogeneous Networks},
  author={You, Feiran and Du, Hongyang},
- journal={arXiv preprint arXiv:},
+ journal={arXiv preprint arXiv: 2505.10992},
  year={2025}
 }
 ```

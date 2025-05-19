@@ -43,7 +43,7 @@ pip install gymnasium==0.29.1
 pip install numpy==1.25.2
 pip install torch==2.0.1
 pip install tensorboard==2.14.0
-pip install stable_baselines3==2.1.0
+pip install stable_baselines3==2.6.0 
 pip install matplotlib==3.8.0
 pip install wandb
 pip install ray

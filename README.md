@@ -60,7 +60,7 @@ wandb login
 ## 🏃‍♀️ Run the Program
 
 ```bash
-python main.py --env-id BipedalWalker-v3
+python main.py --env-id MountainCarContinuous-v0
 ```
 
 ### Command Line Arguments

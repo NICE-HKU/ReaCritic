@@ -1,6 +1,3 @@
-"""
-Main script to run DRL algorithms with diffusion-based reward shaping.
-"""
 
 import argparse
 import gymnasium as gym

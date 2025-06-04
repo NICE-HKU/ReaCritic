@@ -1,7 +1,3 @@
-"""
-The networks for ReLara algorithm.
-"""
-
 import numpy as np
 import math
 import torch

@@ -17,7 +17,7 @@ def parse_args():
     parser = argparse.ArgumentParser()
 
     # Environment settings
-    parser.add_argument("--env-id", type=str, default="HeteroHighDimMEC-v3", help="Environment ID")#Ant-v4 ,HumanoidStandup-v4, MountainCarContinuous-v0, HeteroHighDimMEC-v3
+    parser.add_argument("--env-id", type=str, default="MountainCarContinuous-v0", help="Environment ID")#Ant-v4 ,HumanoidStandup-v4, MountainCarContinuous-v0, HeteroHighDimMEC-v3
     parser.add_argument('--algorithm', type=str, default='sac', choices=['sac', 'ddpg', 'td3', 'ppo', 'a3c'],
                         help='DRL algorithm to use')
     parser.add_argument("--render", type=bool, default=False)

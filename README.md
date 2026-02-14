@@ -1,7 +1,7 @@
 <div align="center">
   <h1>🤔 ReaCritic</h1>
 
-  <h3>ReaCritic: Large Reasoning Transformer-based DRL Critic-model Scaling For Heterogeneous Networks</h3>
+  <h3>ReaCritic: Reasoning Transformer-based DRL Critic-model Scaling For Wireless Networks</h3>
 
   <p align="center">
   <em>"Learning without thought is labor lost. 学而不思则罔。"</em>

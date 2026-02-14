@@ -94,7 +94,7 @@ Should our code assist in your research, please acknowledge our work by citing:
 
 ```bib
 @article{you2025reacritic,
- title={ReaCritic: Large Reasoning Transformer-based DRL Critic-model Scaling For Heterogeneous Networks},
+ title={ReaCritic: Reasoning Transformer-based DRL Critic-model Scaling For Wireless Networks},
  author={You, Feiran and Du, Hongyang},
  journal={arXiv preprint arXiv: 2505.10992},
  year={2025}
